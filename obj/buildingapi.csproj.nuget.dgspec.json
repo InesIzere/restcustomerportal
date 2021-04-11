@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj": {}
+    "C:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj": {
+    "C:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj",
+        "projectUniqueName": "C:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj",
         "projectName": "buildingapi",
-        "projectPath": "c:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj",
+        "projectPath": "C:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj",
         "packagesPath": "C:\\Users\\izere\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\izere\\restapicustomeremm\\obj\\",
+        "outputPath": "C:\\Users\\izere\\restapicustomeremm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h2TLENqj9mRm1ZEglfu0LSAL+3H2j306RXMcoq5eVdueFzvg+WWQThWK/bhJWfivzYAbH/TZqcxuujKtxfTlOw==",
+  "dgSpecHash": "BidtWqtoIhqq1elJb14t+KuFjtd1vQqcZ0mDaqNp5bBAs76UGQtBe/v7RIQccaNHV0OGQTYS+CJ1IVHCceJcuQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj",
+  "projectFilePath": "C:\\Users\\izere\\restapicustomeremm\\buildingapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\izere\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\izere\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",
